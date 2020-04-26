@@ -7,7 +7,14 @@ import React from 'react'
 export default function ContactForm() {
     return (
         <main>
-            Send me and email at Matthewlgrimes94@gamil.com
+            <div className="col s12 m6">
+                <div className="z-depth-2">
+                    <div className="center-align">
+                        <h4>Send an email to matthewlgrimes94@gmail.com</h4>
+                        <hr />
+                    </div>
+                </div>
+            </div>
         </main>
     )
 }
