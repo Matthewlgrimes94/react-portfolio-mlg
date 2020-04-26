@@ -3,7 +3,7 @@
 This portflio site was built with react. Inside you will find links to my github and linkedin, along with an attached resume.
 
 # Link:
-   * https://matthewlgrimes94.github.io/react-portfolio/
+   * https://mlg-react-portfolio.herokuapp.com/
 
 # Deployed at:
 
