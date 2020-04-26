@@ -9,7 +9,7 @@ This portflio site was built with react. Inside you will find links to my github
 
 # Screenshots
    * ![screenshot](https://github.com/Matthewlgrimes94/Portfolio-2/blob/master/images/Screenshot%20(26).png)
-   * ![screenshot](https://github.com/Matthewlgrimes94/Matthew-portfolio-site/blob/master/images/Screenshot%20(28).png)
+   * ![screenshot](https://github.com/Matthewlgrimes94/Matthew-portfolio-site/blob/master/images/Screenshot%20(39).png)
 # Assets:
     * Materialize CSS and JS
     * Google Fonts
