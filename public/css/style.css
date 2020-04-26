@@ -1,0 +1,93 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+  }
+
+main {
+  flex: 1 0 auto;
+}
+
+#carousel {
+    margin-top: 30px;
+}
+
+.parallax-container {
+  height: 400px;
+  position: relative;
+}
+
+.parallax-large {
+  height: 500px !important
+}
+
+h1, h3 {
+  font-family: 'Rubik', sans-serif;
+}
+
+.card i {
+  padding-left: 25px;
+}
+
+.card {
+  height: 100%;
+  transition: ease-in-out;
+  transition-duration: 300ms;
+}
+
+.card-link {
+  color: black;
+}
+
+.hover {
+  transform: translateY(-10px);
+  transition-duration: 300ms;
+}
+
+.card-action {
+  min-height: 100%;
+}
+
+.prev, .next { 
+    position: relative;
+    bottom: 7vh;
+}
+
+i {
+  height: 0px !important;
+}
+
+.github-icon {
+  margin-top: 22px;
+}
+
+.linkedin-icon {
+  margin-top: 22px;
+}
+
+.form-row {
+  padding-top: 100px;
+}
+
+.send-btn {
+  margin-left: 20px;
+}
+
+.mar {
+  margin-bottom: 10px;
+}
+
+.marT {
+  margin-top: 20px;
+}
+
+.repoCard{
+  margin-bottom: 20px;
+  background-color: whitesmoke;
+}
+
+.bottom {
+  padding-bottom: 100px;
+}
